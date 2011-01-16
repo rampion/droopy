@@ -1,6 +1,6 @@
 = droopy
 
-Description goes here.
+Droopy makes it easy to write MapReduce tasks for Hadoop in JRuby.
 
 == Contributing to droopy
  
